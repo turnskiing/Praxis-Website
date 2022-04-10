@@ -21,3 +21,9 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 	
 	
+Zum Ändern der Website: 
+
+git pull
+git add .
+git commit -m "hier Nachricht eingeben"
+git push
