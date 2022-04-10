@@ -2260,9 +2260,9 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #ffffff;
-				background-size: 17%;
+				background-size: 16%;
 				background-repeat: no-repeat;
-				background-image: url("../../images/logo.png");
+				background-image: url("../../images/palette.png");
 				background-position: 98% 2%;
 				color: #222729;
 			}
