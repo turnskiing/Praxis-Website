@@ -23,7 +23,9 @@ Credits:
 	
 Zum Ändern der Website: 
 
+//Als erstes unbedingt pullen!
 git pull
+//Dann Änderungen vornehmen & anschließend:
 git add .
 git commit -m "hier Nachricht eingeben"
 git push
